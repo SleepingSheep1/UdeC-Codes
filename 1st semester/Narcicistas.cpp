@@ -2,7 +2,7 @@
 Numeros narcicistas 
 Un número narcisista es un número de n dígitos, que coincide con la suma de las potencias n-ésimas de sus dígitos
 
-by: SleepingSheep1
+by: SleepingSheep1,Sebastian Burgos
 */
 #include <iostream>
 #include <math.h> 
